@@ -69,10 +69,6 @@ body {
     border: 2px solid red;
 }
 
-.italic {
-    font-style: ;
-}
-
 .help {
     width: 30%;
     background-color: rgb(205, 190, 201);
@@ -123,4 +119,10 @@ body {
 .other-amount {
     text-align: center;
     font-size: 20px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
 }
