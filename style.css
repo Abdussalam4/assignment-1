@@ -94,6 +94,33 @@ body {
 }
 
 .details-info {
-    font-size: medium;
-    font-weight: 200;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+.contact {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 10px;
+    height: 1px;
+    padding: 10%;
+    background-color: rgb(244, 223, 197);
+}
+
+.press-button {
+    background-color: tomato;
+    color: white;
+}
+
+.another-option {
+    border: none;
+    border-bottom: 2px solid grey;
+    font-size: 15px;
+}
+
+.other-amount {
+    text-align: center;
+    font-size: 20px;
 }
