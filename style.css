@@ -7,7 +7,7 @@ body {
     text-align: center;
     padding: 20px;
     font-size: 30px;
-    color: rgb(250, 246, 246);
+    color: rgb(254, 251, 251);
 }
 
 .Donation-Button {
@@ -20,19 +20,12 @@ body {
 }
 
 .banner {
-    background-image: url(/images/donation13.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     margin: 0p;
     height: 750px;
     width: 100%;
     background-size: cover;
-}
-
-.greetings {
-    text-align: center;
-    background-color: black;
-    color: aliceblue;
-    margin-bottom: 0px;
 }
 
 .flex-container {
@@ -137,7 +130,8 @@ body {
 }
 
 footer {
-    background-color: black;
     text-align: center;
-    color: white;
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 0px;
 }
